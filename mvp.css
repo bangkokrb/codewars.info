@@ -455,8 +455,8 @@ header {
     flex-wrap: wrap;
 }
 .gallery img {
-    width:200px;
-    height:150px;
+    width:180px;
+    height:140px;
     margin:16px;
     justify-content: space-between;
     object-fit: contain;
@@ -470,7 +470,7 @@ header {
     display: flex;
     flex-wrap: wrap;
 }
-.communities li {
+.communities>li {
     display: block;
     width:160px;
     height:100px;
@@ -483,4 +483,26 @@ header {
     font-size:20px;
     text-align: center;
     padding:8px;
+}
+.communities>li>a {
+  display: block;
+  width:160px;
+  height:100px;
+  color:black;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+.communities>li>a>img {
+  display: block;
+  width:160px;
+  height:100px;
+  object-fit: contain;
+}
+.communities>li>img {
+  display: block;
+  width:160px;
+  height:100px;
+  object-fit: contain;
 }
