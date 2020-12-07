@@ -453,18 +453,19 @@ header {
 .gallery {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 .gallery img {
-    width:180px;
-    height:140px;
+    display: block;
+    width:240px;
+    height:160px;
     margin:16px;
-    justify-content: space-between;
     object-fit: contain;
     object-position: center center;
 }
 .gallery img.major {
     width:100%;
-    height:200px;
+    height:220px;
 }
 .communities {
     display: flex;
