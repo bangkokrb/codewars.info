@@ -1,15 +1,17 @@
 ---
 layout: page
-title: CodeWar
+title: Codewars
 subtitle: FizzBuzz Fights since 2008!
 description: Live coding live tournament with Two laptops, two projectors, two teams at a time, one programming task - everyone else has some finger food and a drink and watches the chaos. Teams of 4 people formed spontaneously.
 cover-img: assets/images/2011_pycon_screens.jpg
 ---
 
-## Rules of a CodeWar {#rules}   
+<!-- {{ "/assets/images/2011_pycon_screens.jpg" | resize: "x544" }} -->
+
+## Rules of a Codewars {#rules}   
 1. War means Fun!
    - winning doesn't make you a code ninja
-   - winning won't improve your hackerrank (or https://www.codewars.com/... unrelated)
+   - winning won't improve your hackerrank (or even your [codewars.com rank](https://www.codewars.com/)... this is not us)
    - winning won't double your salery
    - these are silly problems, solved under distracting circumstances. Think fizzbuzz fight not project euler.
 2. You can use **any language** you want
@@ -28,12 +30,12 @@ cover-img: assets/images/2011_pycon_screens.jpg
    - Instant knockout round betweeb 2 teams on stage
    - The answer has to be computed and said out loud as the answer
    - if no win inside 20min the codemaster can choose a winner, extend the time or declare a dance off at their discreation.
-7. Team's 7 & 8 will wildcard teams
+7. Two last teams will be selected as wildcard teams
    - These will be picked from smug teams or from other teams that qualified
    - A "smug team" is anyone from the audience who finishes before the teams on stage
    - This gives you a second chance to compete
 8. Last team stading wins.
-   - Codewar is an 8 Team single elimination tournament
+   - Codewars is an 8 Team single elimination tournament
 
 
 ## What are the questions like?
@@ -43,7 +45,7 @@ cover-img: assets/images/2011_pycon_screens.jpg
 
 ## History {#history}
 
-### 2020-12-19 Bangkok Codewar 2020
+### 2020-12-19 Bangkok Codewars 2020
 
 ![2020 stage]({{ "/assets/images/2020_stage.jpg" | resize: "x300" }})
 
@@ -68,7 +70,7 @@ All these communities were involved
 
 [Event Post](2020-12-18-codewar2020/) [Facebook live stream](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1016001628885678) [promo video](https://www.youtube.com/watch?v=Gowm4cN6EXQ&t=6s)
 
-### 2019-12-13 Bangkok Christmas CodeWar 2019
+### 2019-12-13 Bangkok Christmas Codewars 2019
 
 <video style="max-width:100%" controls>
   <source src="assets/images/2019_video.mp4" type="video/mp4">
@@ -89,9 +91,9 @@ Microsoft sponsored giving all the winning team a Surface Go. Hosted at "The Com
 
 ### 2018 PyCon Thailand
 
-![2018 pycon codewar]({{ "/assets/images/2018_pycon.jpg" | resize: "x300" }})
+![2018 pycon codewars]({{ "/assets/images/2018_pycon.jpg" | resize: "x300" }})
 
-In 2018, Dylan Jay created a [CodeWar as a warm up event to the first PyCon Thailand](https://2019.th.pycon.org/pycon2018/code-war/index.html).
+In 2018, Dylan Jay created a [Codewars as a warm up event to the first PyCon Thailand](https://2019.th.pycon.org/pycon2018/code-war/index.html).
 
 Memorable because last minute the quizzmaster had somehow lost the answers to the questions so instead the organisers were solving them barely ahead of the contestants. It also seems we relaxed the 3 person per team rule.
 
@@ -100,10 +102,10 @@ Memorable because last minute the quizzmaster had somehow lost the answers to th
 
 ### 2016-12-29 - Holiday Edition Social Hack Night on NYEEE
 
-![2016 BKKHack codewar]({{ "/assets/images/2016_bkkhackcodewar.jpg" | resize: "x300" }})
+![2016 BKKHack codewars]({{ "/assets/images/2016_bkkhackcodewar.jpg" | resize: "x300" }})
 
 In 2014 Dylan Jay moved to Bangkok and started the first Python Meetup (ThaiPy), the BKK Hack Night and also introduced the
-CodeWar concept at the [end of 2016 as a social event for the BKK Hack Night](https://www.meetup.com/en-AU/bkkhack/events/cxdkxlyvqbmc/).
+Codewars concept at the [end of 2016 as a social event for the BKK Hack Night](https://www.meetup.com/en-AU/bkkhack/events/cxdkxlyvqbmc/).
 
 Memorable by getting kicked out of the venue at midnight and having to run the final at the regular meetup the following month.
 
@@ -120,14 +122,14 @@ In 2013 the PyCon Hobart organizers felt the need change the rules to make it a 
 From 2010 Kiwi PyCon also included the code war as a warm up event and continued to do so every year. 
 In [2014 they messed with the format](https://wellington.pm.org/articles/codewars2014/) so all teams did all questions and noone got to see anyone's code. They didn't do this again.
 
-Links to other kiwi pycon codewar's [2011](https://www.scoop.co.nz/stories/BU1108/S00792/calling-all-it-geeks-and-tech-savvy-people.htm), [2019](https://python.nz/kiwipycon.x.codewars)
+Links to other kiwi pycon Codewars [2011](https://www.scoop.co.nz/stories/BU1108/S00792/calling-all-it-geeks-and-tech-savvy-people.htm), [2019](https://python.nz/kiwipycon.x.codewar)
 
 ### 2010-2011 PyConAU (Sydney)
 
 ![2011 pycon]({{ "/assets/images/2011_pycon.jpg" | resize: "x300" }})
 ![2010 full room]({{ "/assets/images/2010-fullroom.jpg" | resize: "x300" }})
 
-Dylan Jay and Andy Stewart fell in love with the CodeWar concept and when the first ever PyConAU happened in sydney
+Dylan Jay and Andy Stewart fell in love with the Codewars concept and when the first ever PyConAU happened in sydney
 2010 they proposed it as [a friday night warmup event](http://anyvite.com/byq1czpyyc) before the conference start on the saturday. It was hosted at Atlassian.
 
 It was after this event the rule of the answer having to be both "said" and "on screen". The ambiguous result was resolved
@@ -135,7 +137,7 @@ peacefully via a danceoff
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/gH4S6WfgWwk?si=K86oxkurULCvK8RY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Graeme Cross: 2011 Codewar](https://www.flickr.com/photos/66855660@N07/with/6087255630/) and [more](https://hiveminer.com/Tags/codewar)
+[Graeme Cross: 2011 Codewars](https://www.flickr.com/photos/66855660@N07/with/6087255630/) and [more](https://hiveminer.com/Tags/codewar)
 
 
 ### 2008-2011 WebDU Sydney
@@ -143,7 +145,7 @@ peacefully via a danceoff
 ![robin hillard]({{ "/assets/images/Robin-Hilliard-Code-Wars-MC.webp" | resize: "x300" }})
 ![2020 Trophy]({{ "/assets/images/code-wars-trophy-2010.webp" | resize: "x300" }})
 
-CodeWar was created by [Rocketboots CTO Robin Hilliard](https://www.linkedin.com/in/robinhilliard/) as a warm up social event for friday night before the [WebDU conference](https://www.flickr.com/photos/webdu/3553047315/) in Sydney from 2008. Originally based on an idea from the book [PeopleWare](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams). 
+Codewars was created by [Rocketboots CTO Robin Hilliard](https://www.linkedin.com/in/robinhilliard/) as a warm up social event for friday night before the [WebDU conference](https://www.flickr.com/photos/webdu/3553047315/) in Sydney from 2008. Originally based on an idea from the book [PeopleWare](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams). 
 
 Original rules were the roughly the same except
 - There was no qualification round. You just signed up

@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CodeWar - FizzBuzz Fight
-email: hello@codewar.info
+title: Codewars - FizzBuzz Fights since 2008!
+email: hello@codewars.info
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://codewar.info" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://codewars.info" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -74,7 +74,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hello@codewar.info"
+  email: "hello@codewars.info"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: codewarfederation
   # github: daattali
@@ -106,7 +106,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Codewar events near you and news
+rss-description: Codewars events near you and news
 
 
 
@@ -123,7 +123,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "codewar.info"
+url-pretty: "codewars.info"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
