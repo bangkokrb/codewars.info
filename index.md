@@ -13,28 +13,29 @@ cover-img: assets/images/2011_pycon_screens.jpg
    - winning doesn't make you a code ninja
    - winning won't improve your hackerrank (or even your [codewars.com rank](https://www.codewars.com/)... this is not us)
    - winning won't double your salery
-   - these are silly problems, solved under distracting circumstances. Think fizzbuzz fight not project euler.
+   - these are silly problems, solved under distracting circumstances. Think "FizzBuzz Fight" not Project Euler.
 2. You can use **any language** you want
-   - even excel
-3. Qualification round everyone plays
-   - A question will be put on the screen.
+   - even Excel!
+   - you can't use AI assistants like Github Copilot
+3. Qualification round - everyone plays
+   - A question will be shown on the big screen.
    - The first 6 individuals to submit the answer become team leaders and get to pick their team of 3 other team mates
 4. Bring your laptop
    - You will think this is not for you
-   - then you will see the problems and want to solve them
-   - then you will regret not bringing your laptop
-5. 1 Device per team
-   - yes you will have to talk to your team mates
-   - the single laptop will be projected on the big screen with a font large enough for everyone to see
+   - Then you will see the problems and want to solve them
+   - Then you will regret not bringing your laptop!
+5. One Device per team
+   - Yes, you will have to talk to your team mates
+   - The single laptop will be projected on the big screen with a font large enough for everyone to see
 6. First to answer goes through
-   - Instant knockout round betweeb 2 teams on stage
+   - Instant knockout round between 2 teams on stage
    - The answer has to be computed and said out loud as the answer
-   - if no win inside 20min the codemaster can choose a winner, extend the time or declare a dance off at their discreation.
-7. Two last teams will be selected as wildcard teams
-   - These will be picked from smug teams or from other teams that qualified
-   - A "smug team" is anyone from the audience who finishes before the teams on stage
-   - This gives you a second chance to compete
-8. Last team stading wins.
+   - If no winner within 15 min a clue will be given
+7. Two teams will be selected as wildcards
+   - These will be picked from "smug teams" or from other teams that qualified
+   - A smug team is anyone from the audience who finishes before the teams on stage
+   - This gives you a second chance to compete!
+8. Last team stading wins
    - Codewars is an 8 Team single elimination tournament
 
 
