@@ -51,9 +51,9 @@ cover-img: assets/resized/1400/2011_pycon_screens.jpg
 
 ![2020 stage]({{ "/assets/images/2020_stage.jpg" | resize: "x300" }})
 
-Thanks to effective covid measures 2020 was covid free enough for us to hold an in-person event (we were lucky. Days later it covid broke out). Held at AIS DC with a large attendance. 
+Thanks to effective covid measures 2020 was covid free enough for us to hold an in-person event (we were lucky. Days later it covid broke out). Held at AIS DC with a large attendance and even an after party.
 
-All these communities were involved 
+Any language is allowed and the communities involved were 
 <a target="_blank" href="https://www.meetup.com/bkkhack/">BKK/hack</a>, 
 <a target="_blank" href="https://www.facebook.com/thebkkweb/">"BKK WEB"</a>, 
 <a target="_blank" href="https://www.facebook.com/codesanookpage/">CodeSanook</a>, 
@@ -109,24 +109,16 @@ Memorable because last minute the quizzmaster had somehow lost the answers to th
 In 2014 Dylan Jay moved to Bangkok and started the first Python Meetup (ThaiPy), the BKK Hack Night and also introduced the
 Codewars concept at the [end of 2016 as a social event for the BKK Hack Night](https://www.meetup.com/en-AU/bkkhack/events/cxdkxlyvqbmc/).
 
-Memorable by getting kicked out of the venue at midnight and having to run the final at the regular meetup the following month.
+Memorable by getting kicked out of the venue at midnight and having to run the final at the regular meetup the following month. Teams were only 2 due to limited space and turnout.
 
-### 2012-2013 PyConAU (Hobart)
-
-![pyconau-2012]({{ "/assets/images/2012-pyconau.webp" | resize: "x300" }})
-
-There is a [good write up of the events in Aug 2012](https://www.curiousvenn.com/2012/08/codewars-at-pycon-au-2012/?fbclid=IwAR0g1Dc2G6aO7UQTRaiND_WWXHfLNsQWQmNJcHx4sImnTiLmp8hGaWKVuNA). Rules were the same except they dropped the one device per team rule. Not sure why.
-
-In 2013 the PyCon Hobart organizers felt the need change the rules to make it a long cryptic adventure that everyone played from the audience which ended up removing all drama, pace and fun out of the event. PyConAu dropped codewars after this.
-
-### 2010-2019 Kiwi PyCon
+### 2010-2019 Kiwi PyCon (NZ)
 
 From 2010 Kiwi PyCon also included the code war as a warm up event and continued to do so every year. 
 In [2014 they messed with the format](https://wellington.pm.org/articles/codewars2014/) so all teams did all [questions](https://github.com/eliotb/codewars2014) and no one got to see anyone's code or sat on the stage being distracted. They didn't do this again.
 
 Links to other kiwi pycon Codewars [2011](https://www.scoop.co.nz/stories/BU1108/S00792/calling-all-it-geeks-and-tech-savvy-people.htm), [2013](https://kokorice.org/2013/07/19/register-for-kiwi-pycon-2013-today/), [2019](https://twitter.com/NZPUG/status/1164789719810498560)
 
-### 2010-2011 PyConAU (Sydney)
+### 2010-2013 PyConAU (Australia)
 
 ![2011 pycon]({{ "/assets/images/2011_pycon.jpg" | resize: "x300" }})
 ![2010 full room]({{ "/assets/images/2010-fullroom.jpg" | resize: "x300" }})
@@ -142,7 +134,16 @@ peacefully via a danceoff
 [Graeme Cross: 2011 Codewars](https://www.flickr.com/photos/66855660@N07/with/6087255630/) and [more](https://hiveminer.com/Tags/codewar)
 
 
-### 2008-2011 WebDU Sydney
+#### 2012-2013 PyConAU (Hobart)
+
+![pyconau-2012]({{ "/assets/images/2012-pyconau.webp" | resize: "x300" }})
+
+There is a [good write up of the events in Aug 2012](https://www.curiousvenn.com/2012/08/codewars-at-pycon-au-2012/?fbclid=IwAR0g1Dc2G6aO7UQTRaiND_WWXHfLNsQWQmNJcHx4sImnTiLmp8hGaWKVuNA). Rules were the same except they dropped the one device per team rule. Not sure why.
+
+In 2013 the PyCon Hobart organizers felt the need change the rules to make it a long cryptic adventure that everyone played from the audience which ended up removing all drama, pace and fun out of the event. PyConAu dropped codewars after this.
+
+
+### 2008-2011 WebDU (Sydney, Australia)
 
 ![robin hillard]({{ "/assets/images/Robin-Hilliard-Code-Wars-MC.webp" | resize: "x300" }})
 ![2020 Trophy]({{ "/assets/images/code-wars-trophy-2010.webp" | resize: "x300" }})
@@ -151,6 +152,6 @@ Codewars was created by [Rocketboots CTO Robin Hilliard](https://www.linkedin.co
 
 Original rules were the roughly the same except
 - There was no qualification round. You just signed up
-- Semi finals were [40min "creative" rounds judged on audience applause](https://www.eriontheinterweb.com/2010/05/codewars-2010-the-challenge-make-an-app-to-make-steve-jobs-relax-in-flash)... it was a flash/coldfusion conference after all.
+- Semi finals were [40min "creative" rounds judged on audience applause](https://www.eriontheinterweb.com/2010/05/codewars-2010-the-challenge-make-an-app-to-make-steve-jobs-relax-in-flash)... it was a flash/coldfusion conference after all (Any language was still allowed of course...)
 
 
