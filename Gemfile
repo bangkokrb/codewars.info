@@ -22,6 +22,7 @@ group :jekyll_plugins do
   gem "jekyll-resize", git: "https://github.com/MichaelCurrin/jekyll-resize"
   gem "beautiful-jekyll-theme", "6.0.1"
   gem "jekyll-remote-theme"
+  gem "jekyll-responsive-image"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
