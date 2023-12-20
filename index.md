@@ -3,7 +3,8 @@ layout: page
 title: Codewars
 subtitle: FizzBuzz Fights since 2008!
 description: Live coding live tournament with Two laptops, two projectors, two teams at a time, one programming task - everyone else has some finger food and a drink and watches the chaos. Teams of 4 people formed spontaneously.
-cover-img: assets/images/2011_pycon_screens.jpg
+#cover-img: assets/images/2011_pycon_screens.jpg
+cover-img: assets/resized/1400/2011_pycon_screens.jpg
 ---
 
 <!-- {{ "/assets/images/2011_pycon_screens.jpg" | resize: "x544" }} -->
