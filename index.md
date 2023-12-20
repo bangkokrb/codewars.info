@@ -53,24 +53,23 @@ cover-img: assets/resized/1400/2011_pycon_screens.jpg
 
 Thanks to effective covid measures 2020 was covid free enough for us to hold an in-person event (we were lucky. Days later it covid broke out). Held at AIS DC with a large attendance. 
 
-All these communities were involved
-<ul class="communities">
-<li><a target="_blank" href="https://www.meetup.com/bkkhack/">BKK/hack</a></li>
-<li><a target="_blank" href="https://www.facebook.com/thebkkweb/">"BKK WEB"</a></li>
-<li><a target="_blank" href="https://www.facebook.com/codesanookpage/">CodeSanook</a></li>
-<li><a target="_blank" href="https://www.facebook.com/girlswhodev/">Girls who Dev</a></li>
-<li><a target="_blank" href="https://www.meetup.com/GraphQL-Bangkok/">GraphQL Bangkok</a></li>
-<li><a target="_blank" href="https://www.facebook.com/Katinrun/">Katinrun</a></li>
-<li><a target="_blank" href="https://www.meetup.com/Bangkok-NET-Users-Group/">Bangkok .NET Users Group</a></li>
-<li><a target="_blank" href="https://www.facebook.com/pyladiesbkk/">Pyladies BKK</a></li>
-<li><a target="_blank" href="https://www.meetup.com/bangkok-rb/">Ruby Tuesday</a></li>
-<li><a target="_blank" href="https://www.facebook.com/StupidHackTH/">Stupid Hackathon</a></li>
-<li><a target="_blank" href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup">ThaiPy</a></li>
-<li><a target="_blank" href="https://www.thaiprogrammer.org/">Thai Programmer's Association</a></li>
-<li><a target="_blank" href="https://www.facebook.com/web.developer.th/">Web Developers Thailand</a></li>
-</ul>
+All these communities were involved 
+<a target="_blank" href="https://www.meetup.com/bkkhack/">BKK/hack</a>, 
+<a target="_blank" href="https://www.facebook.com/thebkkweb/">"BKK WEB"</a>, 
+<a target="_blank" href="https://www.facebook.com/codesanookpage/">CodeSanook</a>, 
+<a target="_blank" href="https://www.facebook.com/girlswhodev/">Girls who Dev</a>, 
+<a target="_blank" href="https://www.meetup.com/GraphQL-Bangkok/">GraphQL Bangkok</a>, 
+<a target="_blank" href="https://www.facebook.com/Katinrun/">Katinrun</a>, 
+<a target="_blank" href="https://www.meetup.com/Bangkok-NET-Users-Group/">Bangkok .NET Users Group</a>, 
+<a target="_blank" href="https://www.facebook.com/pyladiesbkk/">Pyladies BKK</a>, 
+<a target="_blank" href="https://www.meetup.com/bangkok-rb/">Ruby Tuesday</a>, 
+<a target="_blank" href="https://www.facebook.com/StupidHackTH/">Stupid Hackathon</a>, 
+<a target="_blank" href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup">ThaiPy</a>, 
+<a target="_blank" href="https://www.thaiprogrammer.org/">Thai Programmer's Association</a>, 
+<a target="_blank" href="https://www.facebook.com/web.developer.th/">Web Developers Thailand</a>. 
 
-[Event Post](2020-12-18-codewar2020/) [Facebook live stream](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1016001628885678) [promo video](https://www.youtube.com/watch?v=Gowm4cN6EXQ&t=6s)
+
+[Event Post](2020-12-18-codewar2020/), [Live stream: FB](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1016001628885678), [promo video: YouTube](https://www.youtube.com/watch?v=Gowm4cN6EXQ&t=6s)
 
 ### 2019-12-13 Bangkok Christmas Codewars 2019
 
@@ -81,6 +80,7 @@ All these communities were involved
 
 Held at [Kaidee on Friday the 13th](https://www.ticketmelon.com/codewarfederation/christmascodewar2019?fbclid=IwAR2WsAOH7YhBL81jpcUOH84i8r1zYfn5vdimmoLJrjrZmM_g2P9JS9zk70Q) with 12 different dev meetups involved.
 GummyBear recruitment sponsored the prizes of 5 RasberryPi 4s and Microsoft Azure sponsored beers and food.
+
 
 ### 2018-12-14 Code War Bangkok 2018!
 
@@ -95,14 +95,14 @@ Microsoft sponsored giving all the winning team a Surface Go. Hosted at "The Com
 
 ![2018 pycon codewars]({{ "/assets/images/2018_pycon.jpg" | resize: "x300" }})
 
-In 2018, Dylan Jay created a [Codewars as a warm up event to the first PyCon Thailand](https://2019.th.pycon.org/pycon2018/code-war/index.html).
+In 2018, Dylan Jay created a [Codewars as a warm up event to the first PyCon Thailand](https://2019.th.pycon.org/pycon2018/code-war/index.html). Any language was allowed but python seemed to win anyway.
 
 Memorable because last minute the quizzmaster had somehow lost the answers to the questions so instead the organisers were solving them barely ahead of the contestants. It also seems we relaxed the 3 person per team rule.
 
 <!-- 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FPyConThailand%2Fvideos%2F362179677639589%2F&show_text=false&width=560&t=0" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe> -->
 
-### 2016-12-29 - Holiday Edition Social Hack Night on NYEEE
+### 2016-12-29 - Holiday Edition Social Hack Night on NYEEE (Bangkok)
 
 ![2016 BKKHack codewars]({{ "/assets/images/2016_bkkhackcodewar.jpg" | resize: "x300" }})
 
@@ -122,9 +122,9 @@ In 2013 the PyCon Hobart organizers felt the need change the rules to make it a 
 ### 2010-2019 Kiwi PyCon
 
 From 2010 Kiwi PyCon also included the code war as a warm up event and continued to do so every year. 
-In [2014 they messed with the format](https://wellington.pm.org/articles/codewars2014/) so all teams did all questions and noone got to see anyone's code. They didn't do this again.
+In [2014 they messed with the format](https://wellington.pm.org/articles/codewars2014/) so all teams did all [questions](https://github.com/eliotb/codewars2014) and no one got to see anyone's code or sat on the stage being distracted. They didn't do this again.
 
-Links to other kiwi pycon Codewars [2011](https://www.scoop.co.nz/stories/BU1108/S00792/calling-all-it-geeks-and-tech-savvy-people.htm), [2019](https://python.nz/kiwipycon.x.codewar)
+Links to other kiwi pycon Codewars [2011](https://www.scoop.co.nz/stories/BU1108/S00792/calling-all-it-geeks-and-tech-savvy-people.htm), [2013](https://kokorice.org/2013/07/19/register-for-kiwi-pycon-2013-today/), [2019](https://twitter.com/NZPUG/status/1164789719810498560)
 
 ### 2010-2011 PyConAU (Sydney)
 
