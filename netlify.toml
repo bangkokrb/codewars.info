@@ -1,2 +1,5 @@
+#[context.deploy-preview]
+#  command = "jekyll build --baseurl  $DEPLOY_PRIME_URL"
+
 [context.deploy-preview]
-  command = "jekyll build --baseurl  $DEPLOY_PRIME_URL"
+  command = "printf \"url: %s\" \"$DEPLOY_PRIME_URL\" > _config_netlify.yml; jekyll build --config _config.yml,_config_netlify.yml"
