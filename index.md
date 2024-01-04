@@ -39,6 +39,10 @@ cover-img: assets/resized/1400/2011_pycon_screens.jpg
 8. Last team stading wins
    - Codewars is an 8 Team single elimination tournament
 
+## When is the next codewars in 2024?
+
+Stay tuned for a codewars in bangkok on the 3rd of Feb 2024 with 150-200 developers of all kinds. We are currently looking for sponsors.
+[Follow us on facebook](https://www.facebook.com/codewarfederation) to get notified.
 
 ## What are the questions like?
 
