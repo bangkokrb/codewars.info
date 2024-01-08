@@ -41,7 +41,17 @@ cover-img: assets/resized/1400/2011_pycon_screens.jpg
 
 ## When is the next codewars in 2024?
 
-Stay tuned for a codewars in bangkok on the 3rd of Feb 2024 with 150-200 developers of all kinds. We are currently looking for sponsors.
+![CodeWars BKK 2024]({{ "/assets/bkk_2024_poster.png" | resize: "x500" }})
+
+Next Codewars will be in bangkok on the 3rd of Feb 2024 with 150-200 developers of all kinds.
+
+- Saturday 2024-02-03 2pm-7:30pm
+- Event Address: [Seven Peaks Software (Thailand)](https://maps.app.goo.gl/MpTcUXiQg2z7cRdT8)
+- 5th floor, East Wing, The PARQ, 88 Ratchadaphisek Rd, Bangkok 10110 - You will need photo ID.
+- Sponsors: SevenPeaks, Hell Factory, AWS Thailand.
+
+[Free Ticket](https://docs.google.com/forms/d/e/1FAIpQLSe7KKtFGwe5Y68-OVs9MgX_kUqWSN8WD78nmOjjozzEUvVCdg/viewform)
+
 [Follow us on facebook](https://www.facebook.com/codewarfederation) to get notified.
 
 ## What are the questions like?
