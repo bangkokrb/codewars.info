@@ -18,7 +18,10 @@ Next Codewars will be in bangkok on the 3rd of Feb 2024 with 150-200 developers 
 - Saturday 2024-02-03 2pm-7:30pm
 - Event Address: [Seven Peaks Software (Thailand)](https://maps.app.goo.gl/MpTcUXiQg2z7cRdT8)
 - 5th floor, East Wing, The PARQ, 88 Ratchadaphisek Rd, Bangkok 10110 - You will need photo ID.
-- Sponsors: SevenPeaks, Hell Factory, AWS Thailand.
+- Thanks to our Sponsors: [SevenPeaks Software](https://sevenpeakssoftware.com/), [Hell Factory](https://www.hellfactory.com/), [AWS Thailand](https://aws.amazon.com/th/).
+- Supporting Communities: [ThaiPy](thaipy.github.io), [Bangkok.rb](https://bangkokrb.org/), 
+  [.NET Thailand](https://www.meetup.com/dotnet-bkk/), [Thai Programmer](https://www.thaiprogrammer.org/),
+  [BKK Web](https://www.eventbrite.com/o/bkk-web-13116740934), [https://www.facebook.com/girlswhodev/](Girls Who Dev), [showdown.space](https://web.facebook.com/showdown.space)
 
 [Free Ticket](https://docs.google.com/forms/d/e/1FAIpQLSe7KKtFGwe5Y68-OVs9MgX_kUqWSN8WD78nmOjjozzEUvVCdg/viewform)
 
