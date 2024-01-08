@@ -23,7 +23,8 @@ Next Codewars will be in bangkok on the 3rd of Feb 2024 with 150-200 developers 
   [.NET Thailand](https://www.meetup.com/dotnet-bkk/), [Thai Programmer](https://www.thaiprogrammer.org/),
   [BKK Web](https://www.eventbrite.com/o/bkk-web-13116740934), [https://www.facebook.com/girlswhodev/](Girls Who Dev), [showdown.space](https://web.facebook.com/showdown.space)
 
-[Free Ticket](https://docs.google.com/forms/d/e/1FAIpQLSe7KKtFGwe5Y68-OVs9MgX_kUqWSN8WD78nmOjjozzEUvVCdg/viewform)
+
+<a style="text-align: center;" href="https://docs.google.com/forms/d/e/1FAIpQLSe7KKtFGwe5Y68-OVs9MgX_kUqWSN8WD78nmOjjozzEUvVCdg/viewform"><button>Get Ticket</button></a>
 
 [Follow us on facebook](https://www.facebook.com/codewarfederation) to get notified.
 
