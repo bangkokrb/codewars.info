@@ -24,13 +24,13 @@ Next CodeWars will be in Bangkok on Saturday 3rd February 2024, with 150-200 dev
   [.NET Thailand](https://www.meetup.com/dotnet-bkk/), [Thai Programmer](https://www.thaiprogrammer.org/),
   [BKK Web](https://www.eventbrite.com/o/bkk-web-13116740934), [https://www.facebook.com/girlswhodev/](Girls Who Dev), [showdown.space](https://web.facebook.com/showdown.space)
 
-<a style="text-align: center;" href="https://docs.google.com/forms/d/e/1FAIpQLSe7KKtFGwe5Y68-OVs9MgX_kUqWSN8WD78nmOjjozzEUvVCdg/viewform"><button>Register for Free Tickets</button></a>
+<a class="btn btn-primary btn-lg btn-block" href="https://docs.google.com/forms/d/e/1FAIpQLSe7KKtFGwe5Y68-OVs9MgX_kUqWSN8WD78nmOjjozzEUvVCdg/viewform" role="button">Register for Free Tickets</a>
 
 [Follow us on Facebook](https://www.facebook.com/codewarfederation) to get notified.
 
 
-## Rules of a Codewars {#rules}   
-1. War means Fun!
+## Rules of Codewars {#rules}   
+1. War is Fun!
    - winning doesn't make you a code ninja
    - winning won't improve your hackerrank (or even your [codewars.com rank](https://www.codewars.com/)... this is not us)
    - winning won't double your salery
