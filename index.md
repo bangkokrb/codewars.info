@@ -1,28 +1,29 @@
 ---
 layout: page
-title: Codewars
+title: CodeWars
 subtitle: FizzBuzz Fights since 2008!
-description: Live coding live tournament with Two laptops, two projectors, two teams at a time, one programming task - everyone else has some finger food and a drink and watches the chaos. Teams of 4 people formed spontaneously.
+description: Live coding live tournament with two laptops, two projectors, two teams at a time, one programming task - everyone else has some finger food and a drink and watches the chaos. Teams of 4 people formed spontaneously.
 #cover-img: assets/images/2011_pycon_screens.jpg
 cover-img: assets/resized/1400/2011_pycon_screens.jpg
 ---
 
 <!-- {{ "/assets/images/2011_pycon_screens.jpg" | resize: "x544" }} -->
 
-## When is the next codewars in 2024?
+## When is the next CodeWars in 2024?
 
 ![CodeWars BKK 2024]({{ "/assets/bkk_2024_poster.png" | resize: "x500" }})
 
-Next Codewars will be in bangkok on the 3rd of Feb 2024 with 150-200 developers of all kinds.
+Next CodeWars will be in Bangkok on Saturday 3rd February 2024, with 150-200 developers joining for an afternoon of fun coding challenges!
 
-- Saturday 2024-02-03 2pm-7:30pm
-- Event Address: [Seven Peaks Software (Thailand)](https://maps.app.goo.gl/MpTcUXiQg2z7cRdT8)
-- 5th floor, East Wing, The PARQ, 88 Ratchadaphisek Rd, Bangkok 10110 - You will need photo ID.
-- Sponsors: SevenPeaks, Hell Factory, AWS Thailand.
+- Saturday February 3, 2024 from 2pm - 7:30pm
+- Event Address: [Seven Peaks Software](https://maps.app.goo.gl/MpTcUXiQg2z7cRdT8)
+- 5th floor, East Wing, The PARQ, 88 Ratchadaphisek Rd, Bangkok 10110 
+- You will need photo ID.
+- Thank you to our Sponsors: [Seven Peaks](https://sevenpeakssoftware.com/), [Hell Factory](https://www.hellfactory.com/), [AWS Thailand](https://aws.amazon.com/th/).
 
-[Free Ticket](https://docs.google.com/forms/d/e/1FAIpQLSe7KKtFGwe5Y68-OVs9MgX_kUqWSN8WD78nmOjjozzEUvVCdg/viewform)
+[Register for free ticket](https://docs.google.com/forms/d/e/1FAIpQLSe7KKtFGwe5Y68-OVs9MgX_kUqWSN8WD78nmOjjozzEUvVCdg/viewform)
 
-[Follow us on facebook](https://www.facebook.com/codewarfederation) to get notified.
+[Follow us on Facebook](https://www.facebook.com/codewarfederation) to get notified.
 
 
 ## Rules of a Codewars {#rules}   
