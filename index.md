@@ -32,7 +32,7 @@ Next CodeWars will be in Bangkok on Saturday 3rd February 2024, with 150-200 dev
 1. War is Fun!
    - winning doesn't make you a code ninja
    - winning won't improve your hackerrank (or even your [codewars.com rank](https://www.codewars.com/)... this is not us)
-   - winning won't double your salery
+   - winning won't double your salary
    - these are silly problems, solved under distracting circumstances. Think "FizzBuzz Fight" not Project Euler.
 2. You can use **any language** you want
    - even Excel!
