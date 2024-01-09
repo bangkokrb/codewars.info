@@ -15,14 +15,13 @@ cover-img: assets/resized/1400/2011_pycon_screens.jpg
 
 Next CodeWars will be in Bangkok on Saturday 3rd February 2024, with 150-200 developers joining for an afternoon of fun coding challenges!
 
-- Saturday February 3, 2024 from 2pm - 7:30pm
-- Event Address: [Seven Peaks Software](https://maps.app.goo.gl/MpTcUXiQg2z7cRdT8)
-- 5th floor, East Wing, The PARQ, 88 Ratchadaphisek Rd, Bangkok 10110 
-- You will need photo ID.
+- **Saturday February 3, 2024** from **2pm - 7:30pm**
+- Event Address: Seven Peaks Software, 5th floor, East Wing, The PARQ, 88 Ratchadaphisek Rd, Bangkok 10110 ([Google Maps](https://maps.app.goo.gl/MpTcUXiQg2z7cRdT8))
+- You will need photo ID to enter the venue.
 - Thank you to our Sponsors: [Seven Peaks](https://sevenpeakssoftware.com/), [Hell Factory](https://www.hellfactory.com/), [AWS Thailand](https://aws.amazon.com/th/).
 - Supporting Communities: [ThaiPy](thaipy.github.io), [Bangkok.rb](https://bangkokrb.org/), 
   [.NET Thailand](https://www.meetup.com/dotnet-bkk/), [Thai Programmer](https://www.thaiprogrammer.org/),
-  [BKK Web](https://www.eventbrite.com/o/bkk-web-13116740934), [Girls who Dev](https://www.facebook.com/girlswhodev/), [showdown.space](https://web.facebook.com/showdown.space)
+  [BKK Web](https://www.eventbrite.com/o/bkk-web-13116740934), [Girls Who Dev](https://www.facebook.com/girlswhodev/), [showdown.space](https://web.facebook.com/showdown.space)
 
 <a class="btn btn-primary btn-lg btn-block" href="https://docs.google.com/forms/d/e/1FAIpQLSe7KKtFGwe5Y68-OVs9MgX_kUqWSN8WD78nmOjjozzEUvVCdg/viewform" role="button">Register for Free Tickets</a>
 
@@ -34,7 +33,7 @@ Run a developer community in bangkok? [Partner with us](https://forms.gle/V1CGTH
 1. War is Fun!
    - winning doesn't make you a code ninja
    - winning won't improve your hackerrank (or even your [codewars.com rank](https://www.codewars.com/)... this is not us)
-   - winning won't double your salery
+   - winning won't double your salary
    - these are silly problems, solved under distracting circumstances. Think "FizzBuzz Fight" not Project Euler.
 2. You can use **any language** you want
    - even Excel!
