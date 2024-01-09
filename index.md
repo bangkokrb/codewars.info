@@ -22,7 +22,7 @@ Next CodeWars will be in Bangkok on Saturday 3rd February 2024, with 150-200 dev
 - Thank you to our Sponsors: [Seven Peaks](https://sevenpeakssoftware.com/), [Hell Factory](https://www.hellfactory.com/), [AWS Thailand](https://aws.amazon.com/th/).
 - Supporting Communities: [ThaiPy](thaipy.github.io), [Bangkok.rb](https://bangkokrb.org/), 
   [.NET Thailand](https://www.meetup.com/dotnet-bkk/), [Thai Programmer](https://www.thaiprogrammer.org/),
-  [BKK Web](https://www.eventbrite.com/o/bkk-web-13116740934), [https://www.facebook.com/girlswhodev/](Girls Who Dev), [showdown.space](https://web.facebook.com/showdown.space)
+  [BKK Web](https://www.eventbrite.com/o/bkk-web-13116740934), [Girls Who Dev](https://www.facebook.com/girlswhodev/), [showdown.space](https://web.facebook.com/showdown.space)
 
 <a class="btn btn-primary btn-lg btn-block" href="https://docs.google.com/forms/d/e/1FAIpQLSe7KKtFGwe5Y68-OVs9MgX_kUqWSN8WD78nmOjjozzEUvVCdg/viewform" role="button">Register for Free Tickets</a>
 
