@@ -15,9 +15,8 @@ cover-img: assets/resized/1400/2011_pycon_screens.jpg
 
 Next CodeWars will be in Bangkok on Saturday 3rd February 2024, with 150-200 developers joining for an afternoon of fun coding challenges!
 
-- Saturday February 3, 2024 from 2pm - 7:30pm
-- Event Address: Seven Peaks Software, 5th floor, East Wing, The PARQ, 88 Ratchadaphisek Rd, Bangkok 10110 
-- [Google Maps](https://maps.app.goo.gl/MpTcUXiQg2z7cRdT8)
+- **Saturday February 3, 2024** from **2pm - 7:30pm**
+- Event Address: Seven Peaks Software, 5th floor, East Wing, The PARQ, 88 Ratchadaphisek Rd, Bangkok 10110 ([Google Maps](https://maps.app.goo.gl/MpTcUXiQg2z7cRdT8))
 - You will need photo ID to enter the venue.
 - Thank you to our Sponsors: [Seven Peaks](https://sevenpeakssoftware.com/), [Hell Factory](https://www.hellfactory.com/), [AWS Thailand](https://aws.amazon.com/th/).
 - Supporting Communities: [ThaiPy](thaipy.github.io), [Bangkok.rb](https://bangkokrb.org/), 
