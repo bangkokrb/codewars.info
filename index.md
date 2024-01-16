@@ -37,7 +37,9 @@ Run a developer community in bangkok? [Partner with us](https://forms.gle/V1CGTH
    - these are silly problems, solved under distracting circumstances. Think "FizzBuzz Fight" not Project Euler.
 2. You can use **any language** you want
    - even Excel!
+   - you do have to write code
    - you can't use AI assistants like Github Copilot
+   - English is not a requirement
 3. Qualification round - everyone plays
    - A question will be shown on the big screen.
    - The first 6 individuals to submit the answer become team leaders and get to pick their team of 3 other team mates
