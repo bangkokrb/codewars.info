@@ -25,9 +25,7 @@ Next CodeWars will be in Bangkok on Saturday 3rd February 2024, with 150-200 dev
 
 <a class="btn btn-primary btn-lg btn-block" href="https://docs.google.com/forms/d/e/1FAIpQLSe7KKtFGwe5Y68-OVs9MgX_kUqWSN8WD78nmOjjozzEUvVCdg/viewform" role="button">Register for Free Tickets</a>
 
-[Follow us on Facebook](https://www.facebook.com/codewarfederation) to get notified.
-
-Run a developer community in bangkok? [Partner with us](https://forms.gle/V1CGTH6FdggYwXnU6)
+For more details and FAQ: [Bangkok CodeWars 2024](2024-02-03-codewars-bkk-2024/)
 
 ## Rules of Codewars {#rules}   
 1. War is Fun!
@@ -61,6 +59,7 @@ Run a developer community in bangkok? [Partner with us](https://forms.gle/V1CGTH
 8. Last team stading wins
    - Codewars is an 8 Team single elimination tournament
 
+Still confused? watch [Live stream of codewar 2020](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1016001628885678) to get the idea.
 
 ## What are the questions like?
 
@@ -73,25 +72,11 @@ Run a developer community in bangkok? [Partner with us](https://forms.gle/V1CGTH
 
 ![2020 stage]({{ "/assets/images/2020_stage.jpg" | resize: "x300" }})
 
-Thanks to effective covid measures 2020 was covid free enough for us to hold an in-person event (we were lucky. Days later it covid broke out). Held at AIS DC with a large attendance and even an after party.
+Thanks to effective covid measures 2020 was covid free enough for us to hold an in-person event (we were lucky. Days later it covid broke out). Held at AIS DC with a large attendance and even an after party. You can watch the full [Live stream: FB](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1016001628885678) to get an idea of the event.
 
-Any language is allowed and the communities involved were 
-<a target="_blank" href="https://www.meetup.com/bkkhack/">BKK/hack</a>, 
-<a target="_blank" href="https://www.facebook.com/thebkkweb/">"BKK WEB"</a>, 
-<a target="_blank" href="https://www.facebook.com/codesanookpage/">CodeSanook</a>, 
-<a target="_blank" href="https://www.facebook.com/girlswhodev/">Girls who Dev</a>, 
-<a target="_blank" href="https://www.meetup.com/GraphQL-Bangkok/">GraphQL Bangkok</a>, 
-<a target="_blank" href="https://www.facebook.com/Katinrun/">Katinrun</a>, 
-<a target="_blank" href="https://www.meetup.com/Bangkok-NET-Users-Group/">Bangkok .NET Users Group</a>, 
-<a target="_blank" href="https://www.facebook.com/pyladiesbkk/">Pyladies BKK</a>, 
-<a target="_blank" href="https://www.meetup.com/bangkok-rb/">Ruby Tuesday</a>, 
-<a target="_blank" href="https://www.facebook.com/StupidHackTH/">Stupid Hackathon</a>, 
-<a target="_blank" href="https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup">ThaiPy</a>, 
-<a target="_blank" href="https://www.thaiprogrammer.org/">Thai Programmer's Association</a>, 
-<a target="_blank" href="https://www.facebook.com/web.developer.th/">Web Developers Thailand</a>. 
+For full details see our [Event Post](2020-12-18-codewar2020/)
 
-
-[Event Post](2020-12-18-codewar2020/), [Live stream: FB](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1016001628885678), [promo video: YouTube](https://www.youtube.com/watch?v=Gowm4cN6EXQ&t=6s)
+[promo video: YouTube](https://www.youtube.com/watch?v=Gowm4cN6EXQ&t=6s)
 
 ### 2019-12-13 Bangkok Christmas Codewars 2019
 
