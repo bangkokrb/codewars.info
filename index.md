@@ -64,8 +64,8 @@ Run a developer community in bangkok? [Partner with us](https://forms.gle/V1CGTH
 
 ## What are the questions like?
 
-![2010 question]({{ "/assets/images/code-wars-challenge-1b-2010.webp" | resize: "x300" }})
-![2010 question2]({{ "/assets/images/codewars-challenge-2-2010.webp" | resize: "x300" }})
+![2010 question]({{ "/assets/images/code-wars-challenge-1b-2010.webp" | resize: "x249" }})
+![2010 question2]({{ "/assets/images/codewars-challenge-2-2010.webp" | resize: "x249" }})
 
 ## History {#history}
 

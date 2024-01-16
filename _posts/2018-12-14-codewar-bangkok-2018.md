@@ -10,5 +10,6 @@ Microsoft sponsored giving all the winning team a Surface Go. Hosted at "The Com
 
 ![2018 audience]({{ "/assets/images/2018-codewar-audience.jpeg" | resize: "x300" }})
 
+![2018 winners]({{ "/assets/images/2018-winners.jpeg" | resize: "x300" }})
 
 [more pictures](https://www.facebook.com/codewarfederation/posts/120601169358416)
