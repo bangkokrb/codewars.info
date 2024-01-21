@@ -15,18 +15,7 @@ cover-img: assets/resized/1400/2011_pycon_screens.jpg
 
 Next CodeWars will be in Bangkok on Saturday 3rd February 2024, with 150-200 developers joining for an afternoon of fun coding challenges!
 
-- **Saturday February 3, 2024** from **2pm - 7:30pm**
-- Event Address: Seven Peaks Software, 5th floor, East Wing, The PARQ, 88 Ratchadaphisek Rd, Bangkok 10110 ([Google Maps](https://maps.app.goo.gl/MpTcUXiQg2z7cRdT8))
-- You will need photo ID to enter the venue.
-- Thank you to our Sponsors: [Seven Peaks](https://sevenpeakssoftware.com/), [Hell Factory](https://www.hellfactory.com/), [AWS Thailand](https://aws.amazon.com/th/).
-- Supporting Communities: [ThaiPy](https://thaipy.github.io), [Bangkok.rb](https://bangkokrb.org/), 
-  [.NET Thailand](https://www.meetup.com/dotnet-bkk/), [Thai Programmer](https://www.thaiprogrammer.org/),
-  [BKK Web](https://www.eventbrite.com/o/bkk-web-13116740934), [Girls Who Dev](https://www.facebook.com/girlswhodev/), [showdown.space](https://web.facebook.com/showdown.space), 
-  [Powerclass](https://powerclass.org/)
-
-<a class="btn btn-primary btn-lg btn-block" href="https://docs.google.com/forms/d/e/1FAIpQLSe7KKtFGwe5Y68-OVs9MgX_kUqWSN8WD78nmOjjozzEUvVCdg/viewform" role="button">Register for Free Tickets</a>
-
-For more details and FAQ: [Bangkok CodeWars 2024](2024-02-03-codewars-bkk-2024/)
+[Bangkok CodeWars 2024](2024-02-03-codewars-bkk-2024/){: .btn .btn-primary .btn-lg .btn-block role=button}
 
 ## Rules of Codewars {#rules}   
 1. War is Fun!
