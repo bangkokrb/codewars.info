@@ -53,8 +53,41 @@ Still confused? watch [Live stream of codewar 2020](https://www.facebook.com/wat
 
 ## What are the questions like?
 
+They are fizzbuzz type fun questions that take 5-15min to answer.
+They are questions any developer can answer in any language but
+it's more fun when you are racing against someone else to get the answer first.
+
+Try this test.
+1. don't read the question below yet.
+2. get your favourite editor and language ready to go
+3. turn your phone off and ensure no interuptions for 20min
+4. set a timer.... now
+5. Read the question - <a class="btn btn-primary" data-toggle="collapse" href="#testquestion" role="button" aria-expanded="false" aria-controls="testquestion">Show Question</a>
+6. Write code now to print your answer
+7. if you got the right answer write down your time. if not, keep going. - <a class="btn btn-primary" data-toggle="collapse" href="#testanswer" role="button" aria-expanded="false" aria-controls="testanswer">Show Answer</a>
+8. Share this with a friend and see if you did it quicker than them.
+9. Easy right? Come join us [codewars.info](https://codewars.info)
+
+
+
+
+<div id="testquestion" class="collapse" markdown="1">
+
+> Here is a list of cities. Starting in BANGKOK, the first letter of next city you visit starts with the last letter of the current city. For example BANGKOK ends with K, so KUALA LUMPUR is next. Which city do you visit last?
+
+> กำหนดรายชื่อเมืองต่อไปนี้ เริ่มที่ BANGKOK ให้เดินทางไปยังเมืองต่างๆ โดยชื่อของเมืองถัดไปจะขึ้นต้นด้วยตัวอักษรสุดท้ายของชื่อเมืองปัจจุบัน ตัวอย่างเช่น BANGKOK ลงท้ายด้วย K คุณจึงไปเมือง KUALA LUMPUR เป็นเมืองถัดไป เมืองไหนคือเมืองสุดท้ายที่คุณจะเดินทางไปถึง?
+
+> ```["BANGKOK", "ALGIERS", "ISTANBUL", "NASSAU", "JEDDAH", "WINNIPEG", "GUATEMALA CITY", "YASUJ", "EDMONTON", "FECAMP", "ROME", "PLOVDIV", "OSAKA", "UTRECHT", "DAR ES SALAAM", "KUALA LUMPUR", "MAZAR E SHARIF", "SHANGHAI", "TOKYO", "LUCKNOW", "HYDERABAD"]```
+
+</div>
+
+<div id="testanswer" class="collapse" markdown="1">
+```PLOVDIV```
+</div>
+
+<!-- 
 ![2010 question]({{ "/assets/images/code-wars-challenge-1b-2010.webp" | resize: "x249" }})
-![2010 question2]({{ "/assets/images/codewars-challenge-2-2010.webp" | resize: "x249" }})
+![2010 question2]({{ "/assets/images/codewars-challenge-2-2010.webp" | resize: "x249" }}) -->
 
 ## History {#history}
 
