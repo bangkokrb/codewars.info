@@ -60,10 +60,10 @@ it's more fun when you are racing against someone else to get the answer first.
 Try this test.
 1. don't read the question below yet.
 2. get your favourite editor and language ready to go
-3. turn your phone off and ensure no interuptions for 20min
+3. turn your phone off and ensure no interruptions.
 4. set a timer.... now
 5. Read the question - <a class="btn btn-primary" data-toggle="collapse" href="#testquestion" role="button" aria-expanded="false" aria-controls="testquestion">Show Question</a>
-6. Write code now to print your answer
+6. Write code now to generate the answer. No AI/copilot.
 7. if you got the right answer write down your time. if not, keep going. - <a class="btn btn-primary" data-toggle="collapse" href="#testanswer" role="button" aria-expanded="false" aria-controls="testanswer">Show Answer</a>
 8. Share this with a friend and see if you did it quicker than them.
 9. Easy right? Come join us [codewars.info](https://codewars.info)
