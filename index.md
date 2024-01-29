@@ -16,6 +16,7 @@ cover-img: assets/resized/1400/2011_pycon_screens.jpg
 Next CodeWars will be in Bangkok on Saturday 3rd February 2024, with 150-200 developers joining for an afternoon of fun coding challenges!
 
 [Bangkok CodeWars 2024](2024-02-03-codewars-bkk-2024/){: .btn .btn-primary .btn-lg .btn-block role=button}
+[RSVP](2024-02-03-codewars-bkk-2024/) and [FAQ](2024-02-03-codewars-bkk-2024/)
 
 ## Rules of Codewars {#rules}   
 1. War is Fun!
