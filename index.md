@@ -24,31 +24,26 @@ Next CodeWars will be in Bangkok on Saturday 3rd February 2024, with 150-200 dev
    - winning won't improve your hackerrank (or even your [codewars.com rank](https://www.codewars.com/)... this is not us)
    - winning won't double your salary
    - these are silly problems, solved under distracting circumstances. Think "FizzBuzz Fight" not Project Euler.
-2. You can use **any language** you want
+2. Qualification round - everyone can try
+   - A [simple coding question](/test1) will be shown on the big screen.
+   - The first 6 individuals to submit the answer become team leaders and get to pick their team of 3 other team mates
+   - 2 "wildcard" entrants will come from smug teams (correct answers from the audience) during the tournament
+3. Spectate as 8 teams compete in instant knockout tournament of 7 rounds
+   - Free beer and pizza. Enjoy the show d d
+   - 2 Teams of 4. First team to code the right answer and annouce it wins the round
+   - one laptop per team - projected in a large font
+   - If no winner within 15 min a clue will be given
+   - Last team standing wins
+4. Bring your laptop (if you have one)
+   - You will think this is not for you
+   - Then you will see the problems and want to solve them
+   - Then you will regret not bringing your laptop!
+   - don't have one? help a friend who has one or just watch
+5. You can use **any language** you want
    - even Excel!
    - you do have to write code
    - you can't use AI assistants like Github Copilot
    - English is not a requirement
-3. Qualification round - everyone plays
-   - A question will be shown on the big screen.
-   - The first 6 individuals to submit the answer become team leaders and get to pick their team of 3 other team mates
-4. Bring your laptop
-   - You will think this is not for you
-   - Then you will see the problems and want to solve them
-   - Then you will regret not bringing your laptop!
-5. One Device per team
-   - Yes, you will have to talk to your team mates
-   - The single laptop will be projected on the big screen with a font large enough for everyone to see
-6. First to answer goes through
-   - Instant knockout round between 2 teams on stage
-   - The answer has to be computed and said out loud as the answer
-   - If no winner within 15 min a clue will be given
-7. Two teams will be selected as wildcards
-   - These will be picked from "smug teams" or from other teams that qualified
-   - A smug team is anyone from the audience who finishes before the teams on stage
-   - This gives you a second chance to compete!
-8. Last team stading wins
-   - Codewars is an 8 Team single elimination tournament
 
 Still confused? watch [Live stream of codewar 2020](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1016001628885678) to get the idea.
 

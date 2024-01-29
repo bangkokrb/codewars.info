@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test Question \# Codewars
+title: Test Question 1 - Codewars
 description: Try this question to get a feel for what you have to code to compete
 #cover-img: assets/images/2011_pycon_screens.jpg
 cover-img: assets/resized/1400/2011_pycon_screens.jpg
