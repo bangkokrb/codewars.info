@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Codewars - FizzBuzz Fights since 2008!
+title: Code Wars - FizzBuzz Fights since 2008!
 email: hello@codewars.info
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
