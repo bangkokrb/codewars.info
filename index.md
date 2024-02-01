@@ -146,7 +146,9 @@ In 2013 the PyCon Hobart organizers felt the need change the rules to make it a 
 ![robin hillard]({{ "/assets/images/Robin-Hilliard-Code-Wars-MC.webp" | resize: "x300" }})
 ![2020 Trophy]({{ "/assets/images/code-wars-trophy-2010.webp" | resize: "x300" }})
 
-Code Wars was created by [Rocketboots CTO Robin Hilliard](https://www.linkedin.com/in/robinhilliard/) as a warm up social event for friday night before the [WebDU conference](https://www.flickr.com/photos/webdu/3553047315/) in Sydney from 2008. Originally based on an idea from the book [PeopleWare](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams). 
+Code Wars was created by [Rocketboots CTO Robin Hilliard](https://www.linkedin.com/in/robinhilliard/) as a warm up social event for friday night before the [WebDU conference](https://www.flickr.com/photos/webdu/3553047315/) in Sydney from 2008. Originally based on an idea from the book [PeopleWare](https://progress4success.com/peopleware-by-tom-demarco-timothy-lister-how-to-successfully-lead-in-the-software-industry-leadership-book-review-part-i/2/) where they did Code Wars experiments on coders and 
+found that spaces that are quiter, more private and better protected from interuption let codes complete simple tasks for quickly and with less errors. 
+So Code Wars, the event, was born to make good intentioned coders compete in the least quiet, least private and most interuptable environment possible.
 
 Original rules were the roughly the same except
 - There was no qualification round. You just signed up
