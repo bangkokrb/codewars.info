@@ -20,16 +20,16 @@ Next Code Wars will be in Bangkok on Saturday 3rd February 2024, with 150-200 de
 
 ## Rules of Code Wars {#rules}   
 1. Code Wars are meant for Fun!
-   - these are [silly problems](/test1) that any programmer can solve but solved under distracting circumstances
+   - these are [simple coding problems](/test1) that any programmer can solve in under 10min **but** solved under distracting circumstances
    - The idea of Code Wars is to create the **opposite** of the [ideal environment for coding](https://progress4success.com/peopleware-by-tom-demarco-timothy-lister-how-to-successfully-lead-in-the-software-industry-leadership-book-review-part-i/2/) and make it a game
-   - winning doesn't make you a code ninja or improve your hackerrank (and it's nothing like [codewars.com rank](https://www.codewars.com/))
+   - winning doesn't make you a code ninja or improve your hackerrank (and it's nothing like [codewars.com](https://www.codewars.com/))
 2. Qualification round - everyone can try
    - A [simple coding question](/test1) will be shown on the big screen
    - The first 6 individuals to submit the answer become team leaders and get to pick their team of 4 (or we can assign you a team)
    - 2 "wildcard" teams will come from smug teams (correct answers from the audience) during the tournament
 3. Watch as 2 teams fight on stage in an 8 team instant knockout tournament
    - Enjoy the show. Free beer and pizza.
-   - 1st team to code the right answer and annouce it, continues to the next round
+   - 1st team to code the right answer and annonuce it, continues to the next round
    - one laptop/device per team - projected in a large font
    - If no winner within 15 min a clue will be given
    - Last team standing wins (around 3 hours)
