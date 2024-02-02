@@ -19,31 +19,29 @@ Next Code Wars will be in Bangkok on Saturday 3rd February 2024, with 150-200 de
 [RSVP](2024-02-03-codewars-bkk-2024/) and [FAQ](2024-02-03-codewars-bkk-2024/)
 
 ## Rules of Code Wars {#rules}   
-1. War is Fun!
-   - winning doesn't make you a code ninja
-   - winning won't improve your hackerrank (or even your [codewars.com rank](https://www.codewars.com/)... this is not us)
-   - winning won't double your salary
-   - these are silly problems, solved under distracting circumstances. Think "FizzBuzz Fight" not Project Euler.
+1. Code Wars are meant for Fun!
+   - these are [silly problems](/test1) that any programmer can solve but solved under distracting circumstances
+   - The idea of Code Wars is to create the **opposite** of the [ideal environment for coding](https://progress4success.com/peopleware-by-tom-demarco-timothy-lister-how-to-successfully-lead-in-the-software-industry-leadership-book-review-part-i/2/) and make it a game
+   - winning doesn't make you a code ninja or improve your hackerrank (and it's nothing like [codewars.com rank](https://www.codewars.com/))
 2. Qualification round - everyone can try
-   - A [simple coding question](/test1) will be shown on the big screen.
-   - The first 6 individuals to submit the answer become team leaders and get to pick their team of 3 other team mates
-   - 2 "wildcard" entrants will come from smug teams (correct answers from the audience) during the tournament
-3. Spectate as 8 teams compete in instant knockout tournament of 7 rounds
-   - Free beer and pizza. Enjoy the show d d
-   - 2 Teams of 4. First team to code the right answer and annouce it wins the round
-   - one laptop per team - projected in a large font
+   - A [simple coding question](/test1) will be shown on the big screen
+   - The first 6 individuals to submit the answer become team leaders and get to pick their team of 4 (or we can assign you a team)
+   - 2 "wildcard" teams will come from smug teams (correct answers from the audience) during the tournament
+3. Watch as 2 teams fight on stage in an 8 team instant knockout tournament
+   - Enjoy the show. Free beer and pizza.
+   - 1st team to code the right answer and annouce it, continues to the next round
+   - one laptop/device per team - projected in a large font
    - If no winner within 15 min a clue will be given
-   - Last team standing wins
+   - Last team standing wins (around 3 hours)
 4. Bring your laptop (if you have one)
-   - You will think this is not for you
+   - You may think this is not for you
    - Then you will see the problems and want to solve them
    - Then you will regret not bringing your laptop!
    - don't have one? help a friend who has one or just watch
 5. You can use **any language** you want
    - even Excel!
-   - you do have to write code
-   - you can't use AI assistants like Github Copilot
-   - English is not a requirement
+   - Code must be yours and it must run. you can't use AI assistants like Github Copilot
+   - You don't need to know english
 
 Still confused? watch [Live stream of Code Wars 2020](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1016001628885678) to get the idea.
 
