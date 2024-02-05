@@ -11,12 +11,10 @@ cover-img: assets/resized/1400/2011_pycon_screens.jpg
 
 ## When is the next Code Wars in 2024?
 
-![Code Wars BKK 2024]({{ "/assets/bkk_2024_poster.png" | resize: "x500" }})
+Organising one? Let us know.
 
-Next Code Wars will be in Bangkok on Saturday 3rd February 2024, with 150-200 developers joining for an afternoon of fun coding challenges!
 
-[Bangkok Code Wars 2024](2024-02-03-codewars-bkk-2024/){: .btn .btn-primary .btn-lg .btn-block role=button}
-[RSVP](2024-02-03-codewars-bkk-2024/) and [FAQ](2024-02-03-codewars-bkk-2024/)
+[Bangkok Code Wars on Saturday 3rd February 2024](2024-02-03-codewars-bkk-2024/), with ~120 developers joining for an afternoon of fun coding challenges, beer and pizza mania pizza.
 
 ## Rules of Code Wars {#rules}   
 1. Code Wars are meant for Fun!
